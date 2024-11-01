@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @impulsiveness
+- 👋 Hi, I’m @empulse
 - 👀 I’m interested in gaming, ttrpgs, writing & drawing.
 - 🌱 I’m currently learning github & game dev.
 - 💞️ I’m looking to collaborate on ...
