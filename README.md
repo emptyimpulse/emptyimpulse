@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @impulsiveness
 - 👀 I’m interested in gaming, ttrpgs, writing & drawing.
-- 🌱 I’m currently learning coding
+- 🌱 I’m currently learning github & game dev.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 - 😄 Pronouns: they/them
