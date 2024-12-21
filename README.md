@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @empulse
 - 👀 I’m interested in gaming, ttrpgs, writing & drawing.
 - 🌱 I’m currently learning github & game dev.
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 💞️ I’m looking to collaborate on indie games
+- 📫 How to reach me 3mptyimpulse@gmail.com
 - 😄 Pronouns: they/them
 - ⚡ Fun fact: ...
 
